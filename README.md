@@ -31,3 +31,10 @@ curl -v http://localhost:8000
 ```
 
 This will display the full HTTP request and response, allowing you to verify that your server is functioning correctly and returning the expected day of the week along with your custom header.
+
+## Resources
+
+- [Python's http.server Documentation](https://docs.python.org/3/library/http.server.html)
+- [Python's `datetime` Module](https://docs.python.org/3/library/datetime.html)
+- [HTTP Status Codes](https://httpstatuses.com/)
+- [cURL Documentation](https://curl.haxx.se/docs/manpage.html)
